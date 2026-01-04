@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project simulates a real-world Mini E-Commerce system and demonstrates end-to-end data handling — from **database design and SQL analytics** to **Power BI dashboarding**.  
-It covers customer orders, products, and sales transactions, and generates business insights such as **revenue trends, top customers, category performance, and AOV**.
+It covers customer orders, products, and sales transactions, and generates business insights such as **revenue trends, top customers, category performance, and AOV(Average-output-value)**.
 
 The project is designed to reflect **industry-level database design, analytics logic, and reporting workflow**.
 
