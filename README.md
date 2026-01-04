@@ -57,6 +57,7 @@ The ER diagram file is included in:
 Example stored procedure:
 ```sql
 CALL GetCustomerOrders(1);
+```
 --
 
 📊 Business KPIs & Analytics (SQL + Power BI)
