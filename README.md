@@ -58,41 +58,42 @@ Example stored procedure:
 ```sql
 CALL GetCustomerOrders(1);
 ```
---
+---
 
-📊 Business KPIs & Analytics (SQL + Power BI)
-
+**📊 Business KPIs & Analytics (SQL + Power BI)
+**
 KPIs calculated:
 
-Total Revenue
+  Total Revenue
 
-Total Orders
+  Total Orders
 
-Total Customers
+  Total Customers
 
-Average Order Value (AOV)
+  Average Order Value (AOV)
 
-Category-wise Sales
+  Category-wise Sales
 
-Revenue by Customer
+  Revenue by Customer
 
-Monthly Revenue Trend
+  Monthly Revenue Trend
 
-Top Selling Products
+  Top Selling Products
+---
 
 The Power BI dashboard includes:
 
-KPI cards
+  KPI cards
 
-Revenue by Customer bar chart
+  Revenue by Customer bar chart
 
-Category Revenue donut chart
+  Category Revenue donut chart
 
-Monthly Revenue trend line chart
+  Monthly Revenue trend line chart
 
-Top Products chart
+  Top Products chart
 
-Interactive slicers & filters
+  Interactive slicers & filters
 
 Dashboard file:
 
