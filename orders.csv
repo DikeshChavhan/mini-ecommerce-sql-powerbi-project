@@ -1,0 +1,5 @@
+order_id,customer_id,order_date,order_status
+201,1,"2025-01-01 00:00:00",Delivered
+202,2,"2025-01-02 00:00:00",Shipped
+203,1,"2025-01-03 00:00:00",Placed
+204,3,"2025-01-04 00:00:00",Delivered

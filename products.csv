@@ -1,0 +1,5 @@
+product_id,product_name,category,price,stock_qty,is_active
+101,Laptop,Electronics,55000.00,10,1
+102,Headphones,Electronics,2500.00,40,1
+103,T-Shirt,Clothing,799.00,100,1
+104,Shoes,Footwear,1999.00,60,1
