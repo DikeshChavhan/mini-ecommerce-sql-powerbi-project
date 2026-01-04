@@ -15,19 +15,6 @@ The project is designed to reflect **industry-level database design, analytics l
 - ER Modeling / Data Modeling
 
 ---
-## 📂 Dataset
-Sample dataset used for the project is included in:
- /dataset/customers.csv
- 
- /dataset/products.csv
- 
- /dataset/orders.csv
- 
- /dataset/order_items.csv
- 
-
-The data is synthetic and created only for learning & demonstration purposes.
----
 ## 🧩 Database Schema & Tables
 The database follows a **normalized transactional schema (3NF)**.
 
