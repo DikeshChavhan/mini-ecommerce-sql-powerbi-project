@@ -98,6 +98,7 @@ Dashboard file:
 
 /dashboard/Mini_Ecommerce_PowerBI_Dashboard.pbix
 
+---
 📥 How to Run This Project
 1️⃣ Import SQL Database
 
@@ -118,7 +119,7 @@ Run analytics queries
 Open .pbix file
 
 Refresh data source if required
-
+---
 🧠 Business Insights (Sample Findings)
 
 Electronics category contributes the highest share of revenue
@@ -132,23 +133,7 @@ AOV indicates high-value purchases
 Delivered orders contribute majority of revenue
 
 (Insights depend on dataset values)
-
-🏢 Why This Project Is Industry-Level
-
-Realistic retail-style schema
-
-Proper normalization & FK constraints
-
-KPI-driven analytics
-
-Reporting layer via View & SP
-
-Dashboard connected to SQL data model
-
-End-to-end workflow (DB → Analytics → BI)
-
-This project demonstrates skills used in:
-Data Analyst, SQL Developer, BI Analyst, and MIS roles.
+---
 
 🚀 Future Improvements
 
@@ -161,8 +146,10 @@ Add customer lifetime value (CLV)
 Expand dataset & automate refresh
 
 Deploy Power BI report online
+---
 
 👤 Author
 
 Dikesh Chavhan
 Mini E-Commerce Analytics & SQL Project
+---
