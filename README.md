@@ -119,22 +119,8 @@ Run analytics queries
 Open .pbix file
 
 Refresh data source if required
+
 ---
-🧠 Business Insights (Sample Findings)
-
-Electronics category contributes the highest share of revenue
-
-Laptop is the top-revenue product
-
-Rahul Sharma is the highest-value customer
-
-AOV indicates high-value purchases
-
-Delivered orders contribute majority of revenue
-
-(Insights depend on dataset values)
----
-
 🚀 Future Improvements
 
 Add payments & shipping tables
