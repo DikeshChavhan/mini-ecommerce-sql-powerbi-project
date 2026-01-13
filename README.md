@@ -137,5 +137,4 @@ Deploy Power BI report online
 👤 Author
 
 Dikesh Chavhan
-Mini E-Commerce Analytics & SQL Project
 ---
